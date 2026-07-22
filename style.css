@@ -79,7 +79,7 @@ color:#f4c542;
 .hero{
 height:100vh;
 background:linear-gradient(rgba(11,45,92,.75),rgba(11,45,92,.75)),
-url("../images/hero.jpg") center/cover no-repeat;
+url("hero.jpg") center/cover no-repeat;
 
 display:flex;
 justify-content:center;
@@ -596,4 +596,3 @@ gap:10px;
 transform:scale(1.08);
 background:#ffd95a;
 }
-
